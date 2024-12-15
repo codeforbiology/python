@@ -83,8 +83,10 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me at:
-- Email: **reza.btge.iu.com**
-- LinkedIn: [linkedin.com/in/abu-reza](https://linkedin.com/in/abu-reza)
+- Email: [Mail Me](mailto:reza.btge.iu@gmail.com)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/abu-reza)
+- Facebook: [Facebook](https://facebook.com/Reza.biotech.iu)
+- Website: [Google Site](https://sites.google.com/view/abu-reza)
 
 ---
 
